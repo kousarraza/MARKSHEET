@@ -4,7 +4,7 @@ This is a simple web application built using Streamlit that allows users to gene
 
 ## Demo
 
--**[Click Here](https://marksheetbykr.streamlit.app/)**
+- **[Click Here](https://marksheetbykr.streamlit.app/)**
 
 ## Features
 
